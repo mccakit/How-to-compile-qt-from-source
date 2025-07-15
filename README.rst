@@ -120,4 +120,4 @@ Follow the same module order:
 
 .. code-block::
 
-   qtbase → qtshadertools → qtdeclarative → qttools
+   qtbase → qtshadertools → qtdeclarative
