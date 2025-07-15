@@ -121,3 +121,5 @@ Follow the same module order:
 .. code-block::
 
    qtbase → qtshadertools → qtdeclarative
+
+I recommend disabling framework feature of qt when cross compiling to mac
