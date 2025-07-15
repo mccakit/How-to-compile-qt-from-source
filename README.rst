@@ -122,4 +122,4 @@ Follow the same module order:
 
    qtbase → qtshadertools → qtdeclarative
 
-I recommend disabling framework feature of qt when cross compiling to mac
+I recommend disabling framework feature of qt when cross compiling to Apple with -DQT_FEATURE_framework=OFF
